@@ -1,0 +1,5 @@
+Note From Interview Questions:
+
+array = [1, 4, 6, 2, 8]
+print(array.index(10))
+NB:  is ValueError
